@@ -3,3 +3,4 @@ hostname
 echo "i am"
 (whoami)
 echo "done"
+echo
