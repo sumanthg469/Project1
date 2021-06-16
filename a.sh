@@ -1,2 +1,5 @@
 echo "this file showing hostname"
-echo hostname
+hostname
+echo "i am"
+(whoami)
+echo "done"
